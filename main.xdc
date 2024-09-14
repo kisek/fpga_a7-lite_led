@@ -4,7 +4,7 @@
 
 ## 50MHz system clock
 ###############################################################################################
-set_property -dict { PACKAGE_PIN J19 IOSTANDARD LVCMOS33} [get_ports { clk }];
+set_property -dict { PACKAGE_PIN J19 IOSTANDARD LVCMOS33} [get_ports { w_clk }];
 create_clock -add -name sys_clk -period 20.00 [get_ports {clk}];
 
 ###############################################################################################
