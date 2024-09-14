@@ -1,5 +1,5 @@
 ###############################################################################################
-## main.xdc for A7_LITE FPGA Board                      Institute of Science Tokyo / Tokyo Tech
+## main.xdc for A7_LITE FPGA Board             ArchLab. Institute of Science Tokyo / Tokyo Tech
 ###############################################################################################
 
 ## 50MHz system clock
