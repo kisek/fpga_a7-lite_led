@@ -1,3 +1,4 @@
+/** main.v for A7_LITE FPGA Board  ArchLab. Institute of Science Tokyo / Tokyo Tech **/
 `default_nettype none
 
 module m_main (
