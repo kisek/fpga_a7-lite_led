@@ -2,7 +2,7 @@
 `default_nettype none
 
 module m_main (
-    input  wire  w_clk  ,
+    input  wire  w_clk,
     output wire [1:0] w_led
 );
 
